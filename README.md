@@ -21,7 +21,7 @@
 |5\. |Output/ Screen shots ||
 
 
-**INTRODUCTION TO PROJECT** 
+**INTRODUCTION TO PROJECT**  <br>
 In the project,  Aeroplane Crash Animation, created using OpenGL utilizes  the power of computer graphics to recreate a realistic and dynamic simulation of an aeroplane crash. Using OpenGL, a powerful graphics library, the details of an aeroplane crash are bought to life , including the flight dynamics, physics, and visual effects.  
 
 The project showcases the realistic rendering of aeroplane model , and environmental elements, such as the sun and its rays, hills, trees, river and mountain. For the animation to feel real, the focus  is  given  on  the  two  essential  elements  that  the  animation  needs  to  get  right  are  the “Aeroplane” and the “Mountain”. We made the project to show the best that we have learned. The main objectives of the project are: 
