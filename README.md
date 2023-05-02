@@ -46,8 +46,8 @@ The project showcases the realistic rendering of aeroplane model , and environme
 
 **USER DEFINED FUNCTIONS** 
 
-1. **myinit() -** This function initializes light source for ambient, diffuse and specular types.** 
-1. **color(int id) –** This function is used as a callback function to change the color of the aeroplane based on the ‘id’ selected by from the menu, and changes it to ‘red’, ‘green’, ‘purple’ respectively.** 
+1. **myinit() -** This function initializes light source for ambient, diffuse and specular types.
+1. **color(int id) –** This function is used as a callback function to change the color of the aeroplane based on the ‘id’ selected by from the menu, and changes it to ‘red’, ‘green’, ‘purple’ respectively.
 1. **display():** This is the main display function that is called by GLUT to redraw the window. It clears the screen using glClear() function, and then calls various functions to draw graphical elements like circles, sun rays, and mountains 
 1. **main():** The execution of the program starts from this function. It initializes the graphics system and includes many callback functions. 
 1. **update() –** This function is used as a timer callback function  to update the position of the aeroplane by changing the global variables ‘a’ and ‘c’ which represent the plane’s position on  x  and  y  axis.  It  is  called  repeatedly  with  a  delay  of  150  milliseconds  using glutTimerFunc() function. The updated positions are used to redraw the plane's position using glutPostRedisplay() function. 
@@ -60,7 +60,7 @@ The project showcases the realistic rendering of aeroplane model , and environme
 12. **fillCircle(int xc, int yc, int radius) -** This function is used to draw a filled circle with center coordinates (xc, yc) and radius ‘radius’ using OpenGL's GL\_TRIANGLE\_FAN primitive. It calculates the coordinates of points on the circumference of the circle using trigonometric functions and calls glVertex2f() function to draw the points. 
 12. **drawSunRays(int xc, int yc, int numRays, int rayLength) –** This function is used to draw sun rays originating from a center point (xc, yc) with a specified number of rays numRays and length of rays rayLength. 
 12. **blast() –** This function is meant to depict a blast or explosion effect. 
-12. **display2() –** This function is an additional display function to show the aeroplane crash scene** 
+12. **display2() –** This function is an additional display function to show the aeroplane crash scene.
  
 
 **OUTPUT/ SCREENSHOTS** 
