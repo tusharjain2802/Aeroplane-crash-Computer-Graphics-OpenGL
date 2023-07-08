@@ -4,14 +4,6 @@
 
 **Aeroplane Crash** 
 
-![](Screenshots/001.png)
-
-**Computer Science and Engineering Department Thapar Institute of Engineering and Technology Patiala – 147001** 
-
-**Table of Contents** 
-
-
-
 |**Sr. No.** |**Description** |
 | - | - | 
 |1\. |Introduction to Project |
